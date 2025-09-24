@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #1c1c1c;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #f39c12;
+}
+
+.search-box {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.search-box input {
+  padding: 10px;
+  width: 300px;
+}
+
+.search-box button {
+  padding: 10px;
+  background: #f39c12;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  font-weight: bold;
+}
+
+#movieDetails {
+  margin-top: 20px;
+  padding: 15px;
+  background: #333;
+  border-radius: 10px;
+}
+
+#movieDetails img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+#reviewsSection {
+  margin-top: 30px;
+  background: #2c2c2c;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#reviewsList {
+  margin-top: 10px;
+}
+.review {
+  background: #444;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
